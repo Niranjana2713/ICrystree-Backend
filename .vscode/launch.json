@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-JavaApplication<java>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "crystree.java.project.JavaApplication",
+      "projectName": "java",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
